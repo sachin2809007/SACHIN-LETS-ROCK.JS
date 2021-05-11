@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(nl-110690-lets-rock-and-roll-neon-sign.jpg);
+    height: 100%;
+    width: 100%;
+    background-size:cover; 
+}
+
+#color-overlay{
+    margin: 0;
+    padding: 0;
+    opacity: 0.8;
+    text-align: center;
+    color:rgb(9, 32, 241);
+}
+
+#text-bg{
+    line-height:100vh ;
+    font-size: 80px;
+    margin: 0;
+}
